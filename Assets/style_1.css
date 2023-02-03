@@ -1,0 +1,19 @@
+html 
+
+  body {
+
+    background-color: #ff0000;
+
+  }
+  
+  h1 {
+    color: #00539F;
+    font-size: xx-large;
+    text-align: center;
+  }
+  
+  p {
+    color: #00539F;
+    font-size: xx-large;
+    text-align: center;
+  }
